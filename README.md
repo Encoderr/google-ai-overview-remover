@@ -4,7 +4,7 @@ This extension is made to remove the annoying Google AI overview that appears wh
 
 ## Installation
 
-At this moment, the extension is not available on any browser extension stores. To install this, you will need to clone the repository, and then load the extension manually in your browser after compressing both background.js and manifest.json into a zip file.
+At this moment, the extension is not available on any browser extension stores. To install this, you will need to clone the repository, and then load the extension manually in your browser after compressing both background.js and manifest.json into a zip file. DO TAKE NOTICE THAT THIS EXTENSION IS NOT YET VERIFIED SO IT WILL ONLY WORK IN DEVELOPER MODE.
 
 ### Possible future features
 
