@@ -4,11 +4,18 @@ This extension is made to remove the annoying Google AI overview that appears wh
 
 ## Installation
 
-At this moment, the extension is not available on any browser extension stores. To install this, you will need to clone the repository, and then load the extension manually in your browser after compressing both background.js and manifest.json into a zip file. DO TAKE NOTICE THAT THIS EXTENSION IS NOT YET VERIFIED SO IT WILL ONLY WORK IN DEVELOPER MODE.
+At this moment, the extension is not available on any browser extension stores. 
+
+To install this on Chrome, you will need to clone the repository, and then load the *Chrome* folder manually in your browser. 
+For firefox you can click the link below to install it directly.
+
+Firefox add-on link:
+'''
+[Firefox add-on link](https://addons.mozilla.org/…/c86ae9d86e8946ea994c)
+'''
 
 ### Possible future features
 
-- Add a logo?
 - Publish on Firefox and Chrome extension stores
 - Add buttons that can add other inputs to disable the AI Overview, such as cuss words (this is just to be funny)
 - Make the searches "hide" the query addons on the search bar so that it does not alter the search result visually.

@@ -1,3 +1,4 @@
+
 chrome.webRequest.onBeforeRequest.addListener(
   function(details) {
     const url = new URL(details.url);
