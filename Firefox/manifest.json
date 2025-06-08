@@ -9,12 +9,16 @@
     "webRequestBlocking"
   ],
 
+  "icons": {
+    "128": "icons/128.png"
+  },
+
   "host_permissions": [
     "*://www.google.com/search*"
   ],
 
   "background": {
-    "scripts":[ "background.js" ]
+    "scripts": ["background.js"]
   },
   
   "content_scripts": [ {
